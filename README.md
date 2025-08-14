@@ -1,4 +1,5 @@
-Fine-Tuning Phi-3 Mini with Unsloth
+#Fine-Tuning Phi-3 Mini with Unsloth
+
 📌 Project Overview
 
 This repository contains a Jupyter Notebook that fine-tunes the Phi-3 Mini model using the Unsloth framework, optimized for low VRAM usage and efficient training.
